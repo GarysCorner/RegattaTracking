@@ -2,7 +2,7 @@
 
 ## Description
 
-Some jupyter notebooks I wrote to help reduce tracking data from sailing.  Mostly from Wednesday Night Races on the Pontchartrain.
+Some jupyter notebooks I wrote to help reduce tracking data from sailing.  Mostly from Wednesday Night Races on the Pontchartrain.  Each notebook is kinda my thought process and the questions I want to answer based on the specifics of the race, so it may seem a little all over the place.
 
 The project uses MatPlotLib, PyProj, Pandas, and GeoPandas.  To process wind and tracking data.
 
